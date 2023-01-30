@@ -1,0 +1,138 @@
+Node: E:Mnrega_StateExpenditure->E0
+typeOf: schema:Place
+isoCode: C:Mnrega_StateExpenditure->State
+
+Node: E:Mnrega_StateExpenditure->E1
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_AvailableFunds
+value: C:Mnrega_StateExpenditure->Total Availablity
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E2
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_UnskilledExpWage
+value: C:Mnrega_StateExpenditurea->Unskilled Wage Expenditure
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E3
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_MaterialExpAmount
+value: C:Mnrega_StateExpenditure->Material Expenditure
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E4
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_AdminExpAmount
+value: C:Mnrega_StateExpenditure->Admin Expenditure
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E5
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_OtherExpAmount
+value: C:Mnrega_StateExpenditure->Other Expenditure
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E6
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_ActualExpWage
+value: C:Mnrega_StateExpenditure->Total Actual Exp
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E7
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_BalanceExpAmount
+value: C:Mnrega_StateExpenditure->Actual Balance
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E8
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_UnskilledDueWage
+value: C:Mnrega_StateExpenditure->Unskilled Wage Due
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+        
+Node: E:Mnrega_StateExpenditure->E9
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_MaterialDueAmount
+value: C:Mnrega_StateExpenditure->Material Due
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E10
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_AdminDueAmount
+value: C:Mnrega_StateExpenditure->Admin Due
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E11
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_TotalDueWage
+value: C:Mnrega_StateExpenditure->Total Due
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0    
+        
+Node: E:Mnrega_StateExpenditure->E12
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_TotalExpDue
+value: C:Mnrega_StateExpenditure->Total Exp including payment due
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E13
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeAmount_Mnrega_NetBalanceAmount
+value: C:Mnrega_StateExpenditure->Net Balance
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0
+
+Node: E:Mnrega_StateExpenditure->E14
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeCumAmount_Mnrega_YearExpenditure
+value: C:Mnrega_StateExpenditure->Cum_Expenditure_Year
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0   
+        
+Node: E:Mnrega_StateExpenditure->E15
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:SchemeCumAmount_Mnrega_StateExpenditure
+value: C:Mnrega_StateExpenditure->Cum_Expenditure_State
+unit: dcs:IndianRupee(lakhs)
+observationDate: C:Mnrega_StateExpenditure->Year
+observationPeriod: "P1Y"
+observationAbout: E:Mnrega_StateExpenditure->E0   
