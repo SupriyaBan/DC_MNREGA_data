@@ -2,7 +2,7 @@ import pandas as pd
 
 
 INDIA_ISO_CODES = {
-   'ANDHRA PRADESH':  "IN-AP",
+'ANDHRA PRADESH':  "IN-AP",
 'ARUNACHAL PRADESH':  "IN-AR",
 'ASSAM':  "IN-AS",
 'BIHAR':  "IN-BR",
@@ -69,15 +69,18 @@ class MNREGADataLoader:
         self.df = None
     
     def download(self):
-        for yr in range(2019,2023): #Add the Year's range here
+         #Add the Year's range here
+        for yr in range(2019,2023): 
             data = pd.read_html(f"{self.base_url}?lflag=eng&fin_year={yr}-{yr+1}&source=national&labels=labels&Digest=cN96LBEGlHkRAwn+MUntcQ")[4][3:].iloc[:-1]
-            data['Year']= f'{yr}' #Adding Year column
+            #Adding Year column
+            data['Year']= f'{yr}' 
             self.data_list.append(data)
         self.df= pd.concat(self.data_list)
         self.df.columns = self.cols
         
     def process(self):
-        for c in self.df.columns[2:]: #Converting the datatypes of numerical column except Year
+      #Converting the datatypes of numerical column except Year
+        for c in self.df.columns[2:]: 
             if c != 'Year':
                 self.df[c]= self.df[c].astype('float')
                 self.df[c] *= 100000
