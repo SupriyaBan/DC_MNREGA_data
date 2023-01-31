@@ -34,48 +34,6 @@ populationType: dcs:Funds
 measuredProperty: dcs:amount              
 statType: dcs:measuredValue
 
-Node: dcid:SchemeAmount_Mnrega_BalanceExpAmount
-typeOf: dcs:StatisticalVariable
-populationType: dcs:Funds
-measuredProperty: dcs:amount                
-statType: dcs:measuredValue
-
-Node: dcid:SchemeAmount_Mnrega_UnskilledDueWage
-typeOf: dcs:StatisticalVariable
-populationType: dcs:Funds
-measuredProperty: dcs:amount
-statType: dcs:measuredValue
-
-Node: dcid:SchemeAmount_Mnrega_MaterialDueAmount
-typeOf: dcs:StatisticalVariable
-populationType: dcs:Funds
-measuredProperty: dcs:amount
-statType: dcs:measuredValue
-
-Node: dcid:SchemeAmount_Mnrega_AdminDueAmount
-typeOf: dcs:StatisticalVariable
-populationType: dcs:Funds
-measuredProperty: dcs:amount
-statType: dcs:measuredValue
-
-Node: dcid:SchemeAmount_Mnrega_TotalDueWage
-typeOf: dcs:StatisticalVariable
-populationType: dcs:Funds
-measuredProperty: dcs:amount             
-statType: dcs:measuredValue
-
-Node: dcid:SchemeAmount_Mnrega_TotalExpDue
-typeOf: dcs:StatisticalVariable
-populationType: dcs:Funds
-measuredProperty: dcs:amount                
-statType: dcs:measuredValue
-
-Node: dcid:SchemeAmount_Mnrega_NetBalanceAmount
-typeOf: dcs:StatisticalVariable
-populationType: dcs:Funds
-measuredProperty: dcs:amount                    
-statType: dcs:measuredValue
-
 Node: dcid:SchemeCumAmount_Mnrega_YearExpenditure
 typeOf: dcs:StatisticalVariable
 populationType: dcs:Funds
