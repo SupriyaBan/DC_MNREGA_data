@@ -1,0 +1,1810 @@
+
+                <table align="center" width="99%" border="1" bordercolor="#EBEBEB" style="border-collapse: collapse"
+                    cellspacing="0">
+                    <tr bgcolor="#82b4ff">
+                        <td align="center" rowspan="2">
+                            <b>S No.</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>State</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>
+                                <span id="Repeater1_hypavl"><a href='financialstatement_part1.aspx?fin_year=2022-2023&Digest=VsFoSds3PN2CpO6j2rgSzA'><font color='blue'>Total Availability*</font></a></span>
+                            </b>
+                        </td>
+                        <td align="center" colspan="3">
+                            <b>Actual Expenditure</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>
+                                <span id="Repeater1_hypoth"><a href='financialstatement_part3.aspx?fin_year=2022-2023&typ=OTH&Digest=maxR0CsZU5oPyz/YIQimZA'><font color='blue'>Other Expenditure*</font></a></span></b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>Total Actual Exp</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>Actual Balance</b>
+                        </td>
+                        <td align="center" colspan="4">
+                            <b>Payment Due</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>Total Exp including payment due</b>
+                        </td>
+                        <td align="center" rowspan="2">
+                            <b>Net Balance</b>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#82b4ff">
+                        <td align="center">
+                            <b>Unskilled Wage</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                <span id="Repeater1_hypmat"><a href='financialstatement_part2.aspx?fin_year=2022-2023&typ=ACT&Digest=JOEThOr1EzdIrHD221zLQg'><font color='blue'>Material*</font></a></span></b>
+                        </td>
+                        <td align="center">
+                            <b>Admin</b>
+                        </td>
+                        <td align="center">
+                            <b>Unskilled Wage*</b>
+                        </td>
+                        <td align="center">
+                            <b>
+                                <span id="Repeater1_hypmat1"><a href='financialstatement_part2.aspx?fin_year=2022-2023&typ=LIB&Digest=h230Qb8iwSdS2cAK/tjXtA'><font color='blue'>Material*</font></a></span>
+                            </b>
+                        </td>
+                        <td align="center">
+                            <b>Admin</b>
+                        </td>
+                        <td align="center">
+                            <b>Total</b>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#82b4ff">
+                        
+                        <td align="center">
+                            1
+                        </td>
+                        
+                        <td align="center">
+                            2
+                        </td>
+                        
+                        <td align="center">
+                            3
+                        </td>
+                        
+                        <td align="center">
+                            4
+                        </td>
+                        
+                        <td align="center">
+                            5
+                        </td>
+                        
+                        <td align="center">
+                            6
+                        </td>
+                        
+                        <td align="center">
+                            7
+                        </td>
+                        
+                        <td align="center">
+                            8=4+5+6+7
+                        </td>
+                        
+                        <td align="center">
+                            9=3-8
+                        </td>
+                        
+                        <td align="center">
+                            10
+                        </td>
+                        
+                        <td align="center">
+                            11
+                        </td>
+                        
+                        <td align="center">
+                            12
+                        </td>
+                        
+                        <td align="center">
+                            13=10+11+12
+                        </td>
+                        
+                        <td align="center">
+                            14
+                        </td>
+                        
+                        <td align="center">
+                            15=3-14
+                        </td>
+                        
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=AP&state_name=ANDHRA+PRADESH&state_code=02&fin_year=2022-2023&is_statefund=Y&Digest=2p5bXAq1nVrdtIiHPiPmDg'>ANDHRA PRADESH</a>
+                    </td>
+                    <td align="right">
+                        689240.67
+                    </td>
+                    <td align="right">
+                        409908.9
+                    </td>
+                    <td align="right">
+                        236087.21
+                    </td>
+                    <td align="right">
+                        34756.02
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        680752.13
+                    </td>
+                    <td align="right">
+                        8488.54
+                    </td>
+                    <td align="right">
+                        1560.66
+                    </td>
+                    <td align="right">
+                        106698.16
+                    </td>
+                    <td align="right">
+                        3535.98
+                    </td>
+                    <td align="right">
+                        111794.8
+                    </td>
+                    <td align="right">
+                        792546.93
+                    </td>
+                    <td align="right">
+                        -103306.26
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=AR&state_name=ARUNACHAL+PRADESH&state_code=03&fin_year=2022-2023&is_statefund=Y&Digest=rtQegjlZHFkm4nrevjEq1g'>ARUNACHAL PRADESH</a>
+                    </td>
+                    <td align="right">
+                        41747.58
+                    </td>
+                    <td align="right">
+                        24658.31
+                    </td>
+                    <td align="right">
+                        20589.9
+                    </td>
+                    <td align="right">
+                        2050.28
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        47298.49
+                    </td>
+                    <td align="right">
+                        -5550.91
+                    </td>
+                    <td align="right">
+                        847.54
+                    </td>
+                    <td align="right">
+                        3199.65
+                    </td>
+                    <td align="right">
+                        340.93
+                    </td>
+                    <td align="right">
+                        4388.12
+                    </td>
+                    <td align="right">
+                        51686.61
+                    </td>
+                    <td align="right">
+                        -9939.03
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=D&lflag=eng&page=s&short_name=AS&state_name=ASSAM&state_code=04&fin_year=2022-2023&is_statefund=Y&Digest=BFYm27+03TihIUFgrXLYfw'>ASSAM</a>
+                    </td>
+                    <td align="right">
+                        198937.18
+                    </td>
+                    <td align="right">
+                        158849.48
+                    </td>
+                    <td align="right">
+                        7809.24
+                    </td>
+                    <td align="right">
+                        4224.72
+                    </td>
+                    <td align="right">
+                        1.37
+                    </td>
+                    <td align="right">
+                        170884.81
+                    </td>
+                    <td align="right">
+                        28052.37
+                    </td>
+                    <td align="right">
+                        3256.55
+                    </td>
+                    <td align="right">
+                        14822.74
+                    </td>
+                    <td align="right">
+                        4.21
+                    </td>
+                    <td align="right">
+                        18083.5
+                    </td>
+                    <td align="right">
+                        188968.31
+                    </td>
+                    <td align="right">
+                        9968.87
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=BH&state_name=BIHAR&state_code=05&fin_year=2022-2023&is_statefund=Y&Digest=aTTfuoganOC3EPeGQUdxOA'>BIHAR</a>
+                    </td>
+                    <td align="right">
+                        628520.66
+                    </td>
+                    <td align="right">
+                        437647.33
+                    </td>
+                    <td align="right">
+                        121383.6
+                    </td>
+                    <td align="right">
+                        28481.43
+                    </td>
+                    <td align="right">
+                        14.13
+                    </td>
+                    <td align="right">
+                        587526.49
+                    </td>
+                    <td align="right">
+                        40994.17
+                    </td>
+                    <td align="right">
+                        7288.1
+                    </td>
+                    <td align="right">
+                        55030.65
+                    </td>
+                    <td align="right">
+                        2130.06
+                    </td>
+                    <td align="right">
+                        64448.81
+                    </td>
+                    <td align="right">
+                        651975.3
+                    </td>
+                    <td align="right">
+                        -23454.64
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=CH&state_name=CHHATTISGARH&state_code=33&fin_year=2022-2023&is_statefund=Y&Digest=AZdGy3Hz1wBx24ImBpf48A'>CHHATTISGARH</a>
+                    </td>
+                    <td align="right">
+                        342307.15
+                    </td>
+                    <td align="right">
+                        177330.97
+                    </td>
+                    <td align="right">
+                        79550.57
+                    </td>
+                    <td align="right">
+                        12273.47
+                    </td>
+                    <td align="right">
+                        0.06
+                    </td>
+                    <td align="right">
+                        269155.07
+                    </td>
+                    <td align="right">
+                        73152.08
+                    </td>
+                    <td align="right">
+                        1815.44
+                    </td>
+                    <td align="right">
+                        10415.71
+                    </td>
+                    <td align="right">
+                        1909.72
+                    </td>
+                    <td align="right">
+                        14140.87
+                    </td>
+                    <td align="right">
+                        283295.94
+                    </td>
+                    <td align="right">
+                        59011.21
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=GO&state_name=GOA&state_code=10&fin_year=2022-2023&is_statefund=Y&Digest=cASNS5uViKMyQEdEwHZa8w'>GOA</a>
+                    </td>
+                    <td align="right">
+                        467.91
+                    </td>
+                    <td align="right">
+                        289.95
+                    </td>
+                    <td align="right">
+                        67.17
+                    </td>
+                    <td align="right">
+                        1.95
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        359.07
+                    </td>
+                    <td align="right">
+                        108.84
+                    </td>
+                    <td align="right">
+                        3.32
+                    </td>
+                    <td align="right">
+                        2.25
+                    </td>
+                    <td align="right">
+                        0.02
+                    </td>
+                    <td align="right">
+                        5.59
+                    </td>
+                    <td align="right">
+                        364.66
+                    </td>
+                    <td align="right">
+                        103.25
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=GJ&state_name=GUJARAT&state_code=11&fin_year=2022-2023&is_statefund=Y&Digest=1Yk4uvDj48OF2ztZAUV2fA'>GUJARAT</a>
+                    </td>
+                    <td align="right">
+                        185599.92
+                    </td>
+                    <td align="right">
+                        88998.24
+                    </td>
+                    <td align="right">
+                        79261.24
+                    </td>
+                    <td align="right">
+                        5419.27
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        173678.75
+                    </td>
+                    <td align="right">
+                        11921.17
+                    </td>
+                    <td align="right">
+                        712.82
+                    </td>
+                    <td align="right">
+                        12454.08
+                    </td>
+                    <td align="right">
+                        446.11
+                    </td>
+                    <td align="right">
+                        13613.01
+                    </td>
+                    <td align="right">
+                        187291.76
+                    </td>
+                    <td align="right">
+                        -1691.84
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=HR&state_name=HARYANA&state_code=12&fin_year=2022-2023&is_statefund=Y&Digest=KdgqZGrxdTuH4xJuQWCi/Q'>HARYANA</a>
+                    </td>
+                    <td align="right">
+                        47923.7
+                    </td>
+                    <td align="right">
+                        25586.48
+                    </td>
+                    <td align="right">
+                        11896.11
+                    </td>
+                    <td align="right">
+                        1011
+                    </td>
+                    <td align="right">
+                        0.04
+                    </td>
+                    <td align="right">
+                        38493.63
+                    </td>
+                    <td align="right">
+                        9430.07
+                    </td>
+                    <td align="right">
+                        223.35
+                    </td>
+                    <td align="right">
+                        3517.09
+                    </td>
+                    <td align="right">
+                        53.44
+                    </td>
+                    <td align="right">
+                        3793.88
+                    </td>
+                    <td align="right">
+                        42287.51
+                    </td>
+                    <td align="right">
+                        5636.19
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=HP&state_name=HIMACHAL+PRADESH&state_code=13&fin_year=2022-2023&is_statefund=Y&Digest=TbjUxkQ0/jildeAK7968HA'>HIMACHAL PRADESH</a>
+                    </td>
+                    <td align="right">
+                        115982.76
+                    </td>
+                    <td align="right">
+                        55750.94
+                    </td>
+                    <td align="right">
+                        52771.54
+                    </td>
+                    <td align="right">
+                        4724.09
+                    </td>
+                    <td align="right">
+                        1.05
+                    </td>
+                    <td align="right">
+                        113247.62
+                    </td>
+                    <td align="right">
+                        2735.14
+                    </td>
+                    <td align="right">
+                        149.54
+                    </td>
+                    <td align="right">
+                        3545.8
+                    </td>
+                    <td align="right">
+                        618.36
+                    </td>
+                    <td align="right">
+                        4313.7
+                    </td>
+                    <td align="right">
+                        117561.32
+                    </td>
+                    <td align="right">
+                        -1578.56
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=JK&state_name=JAMMU+AND+KASHMIR&state_code=14&fin_year=2022-2023&is_statefund=Y&Digest=lATK3PLfcAnm2F6ynxIpBA'>JAMMU AND KASHMIR</a>
+                    </td>
+                    <td align="right">
+                        63026.23
+                    </td>
+                    <td align="right">
+                        47013.58
+                    </td>
+                    <td align="right">
+                        19989.55
+                    </td>
+                    <td align="right">
+                        2517.68
+                    </td>
+                    <td align="right">
+                        0.33
+                    </td>
+                    <td align="right">
+                        69521.14
+                    </td>
+                    <td align="right">
+                        -6494.91
+                    </td>
+                    <td align="right">
+                        1628.57
+                    </td>
+                    <td align="right">
+                        3232.02
+                    </td>
+                    <td align="right">
+                        132.06
+                    </td>
+                    <td align="right">
+                        4992.65
+                    </td>
+                    <td align="right">
+                        74513.79
+                    </td>
+                    <td align="right">
+                        -11487.56
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=D&lflag=eng&page=s&short_name=JH&state_name=JHARKHAND&state_code=34&fin_year=2022-2023&is_statefund=Y&Digest=Zg9HQyu4/UAjMWKecPNi+g'>JHARKHAND</a>
+                    </td>
+                    <td align="right">
+                        274111.15
+                    </td>
+                    <td align="right">
+                        174238.33
+                    </td>
+                    <td align="right">
+                        21258.8
+                    </td>
+                    <td align="right">
+                        6401.89
+                    </td>
+                    <td align="right">
+                        0.47
+                    </td>
+                    <td align="right">
+                        201899.49
+                    </td>
+                    <td align="right">
+                        72211.66
+                    </td>
+                    <td align="right">
+                        1898.93
+                    </td>
+                    <td align="right">
+                        29941.7
+                    </td>
+                    <td align="right">
+                        358.55
+                    </td>
+                    <td align="right">
+                        32199.18
+                    </td>
+                    <td align="right">
+                        234098.67
+                    </td>
+                    <td align="right">
+                        40012.48
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=KN&state_name=KARNATAKA&state_code=15&fin_year=2022-2023&is_statefund=Y&Digest=KTnR1t5k1z7N36g5o0HQlg'>KARNATAKA</a>
+                    </td>
+                    <td align="right">
+                        677647.02
+                    </td>
+                    <td align="right">
+                        335255.3
+                    </td>
+                    <td align="right">
+                        251057.02
+                    </td>
+                    <td align="right">
+                        16512.6
+                    </td>
+                    <td align="right">
+                        2.76
+                    </td>
+                    <td align="right">
+                        602827.68
+                    </td>
+                    <td align="right">
+                        74819.34
+                    </td>
+                    <td align="right">
+                        3677.35
+                    </td>
+                    <td align="right">
+                        84568.3
+                    </td>
+                    <td align="right">
+                        2555.52
+                    </td>
+                    <td align="right">
+                        90801.17
+                    </td>
+                    <td align="right">
+                        693628.85
+                    </td>
+                    <td align="right">
+                        -15981.83
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=KL&state_name=KERALA&state_code=16&fin_year=2022-2023&is_statefund=Y&Digest=ICmFp1WOu6dQ83S1hGqr7g'>KERALA</a>
+                    </td>
+                    <td align="right">
+                        304991.89
+                    </td>
+                    <td align="right">
+                        239533.88
+                    </td>
+                    <td align="right">
+                        62934.24
+                    </td>
+                    <td align="right">
+                        5961.36
+                    </td>
+                    <td align="right">
+                        0.26
+                    </td>
+                    <td align="right">
+                        308429.74
+                    </td>
+                    <td align="right">
+                        -3437.85
+                    </td>
+                    <td align="right">
+                        2099.11
+                    </td>
+                    <td align="right">
+                        18052.51
+                    </td>
+                    <td align="right">
+                        8834.1
+                    </td>
+                    <td align="right">
+                        28985.72
+                    </td>
+                    <td align="right">
+                        337415.46
+                    </td>
+                    <td align="right">
+                        -32423.57
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=LD&state_name=LADAKH&state_code=37&fin_year=2022-2023&is_statefund=Y&Digest=Bx0brhsVSad19s464cxJjA'>LADAKH</a>
+                    </td>
+                    <td align="right">
+                        4987.58
+                    </td>
+                    <td align="right">
+                        3740.48
+                    </td>
+                    <td align="right">
+                        1127.87
+                    </td>
+                    <td align="right">
+                        143.61
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        5011.96
+                    </td>
+                    <td align="right">
+                        -24.38
+                    </td>
+                    <td align="right">
+                        224.74
+                    </td>
+                    <td align="right">
+                        199.41
+                    </td>
+                    <td align="right">
+                        45.79
+                    </td>
+                    <td align="right">
+                        469.94
+                    </td>
+                    <td align="right">
+                        5481.9
+                    </td>
+                    <td align="right">
+                        -494.32
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=D&lflag=eng&page=s&short_name=MP&state_name=MADHYA+PRADESH&state_code=17&fin_year=2022-2023&is_statefund=Y&Digest=ydyy6ywsI6TnsH134D9UGA'>MADHYA PRADESH</a>
+                    </td>
+                    <td align="right">
+                        593623.4
+                    </td>
+                    <td align="right">
+                        418250.93
+                    </td>
+                    <td align="right">
+                        233731.51
+                    </td>
+                    <td align="right">
+                        29469.54
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        681454.98
+                    </td>
+                    <td align="right">
+                        -87831.58
+                    </td>
+                    <td align="right">
+                        3336.51
+                    </td>
+                    <td align="right">
+                        48010.17
+                    </td>
+                    <td align="right">
+                        652.33
+                    </td>
+                    <td align="right">
+                        51999.01
+                    </td>
+                    <td align="right">
+                        733453.99
+                    </td>
+                    <td align="right">
+                        -139830.59
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=MH&state_name=MAHARASHTRA&state_code=18&fin_year=2022-2023&is_statefund=Y&Digest=GDw5vBf4A8ezgUVGonyw2g'>MAHARASHTRA</a>
+                    </td>
+                    <td align="right">
+                        240991.28
+                    </td>
+                    <td align="right">
+                        171682.92
+                    </td>
+                    <td align="right">
+                        68134.24
+                    </td>
+                    <td align="right">
+                        13705.97
+                    </td>
+                    <td align="right">
+                        161.58
+                    </td>
+                    <td align="right">
+                        253684.71
+                    </td>
+                    <td align="right">
+                        -12693.43
+                    </td>
+                    <td align="right">
+                        1050.57
+                    </td>
+                    <td align="right">
+                        26840.02
+                    </td>
+                    <td align="right">
+                        2349.8
+                    </td>
+                    <td align="right">
+                        30240.39
+                    </td>
+                    <td align="right">
+                        283925.1
+                    </td>
+                    <td align="right">
+                        -42933.82
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=MN&state_name=MANIPUR&state_code=20&fin_year=2022-2023&is_statefund=Y&Digest=yJx7sGlypuOf1leYw/FJgg'>MANIPUR</a>
+                    </td>
+                    <td align="right">
+                        138120.28
+                    </td>
+                    <td align="right">
+                        41125.74
+                    </td>
+                    <td align="right">
+                        6987.77
+                    </td>
+                    <td align="right">
+                        1482.44
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        49595.95
+                    </td>
+                    <td align="right">
+                        88524.33
+                    </td>
+                    <td align="right">
+                        9110.93
+                    </td>
+                    <td align="right">
+                        1952.68
+                    </td>
+                    <td align="right">
+                        550.7
+                    </td>
+                    <td align="right">
+                        11614.31
+                    </td>
+                    <td align="right">
+                        61210.26
+                    </td>
+                    <td align="right">
+                        76910.02
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=MG&state_name=MEGHALAYA&state_code=21&fin_year=2022-2023&is_statefund=Y&Digest=sgdmLASLUkuWsIyNs34/eg'>MEGHALAYA</a>
+                    </td>
+                    <td align="right">
+                        118470.48
+                    </td>
+                    <td align="right">
+                        47355.87
+                    </td>
+                    <td align="right">
+                        51822.18
+                    </td>
+                    <td align="right">
+                        2932.83
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        102110.88
+                    </td>
+                    <td align="right">
+                        16359.6
+                    </td>
+                    <td align="right">
+                        2310.05
+                    </td>
+                    <td align="right">
+                        13115.74
+                    </td>
+                    <td align="right">
+                        261.05
+                    </td>
+                    <td align="right">
+                        15686.84
+                    </td>
+                    <td align="right">
+                        117797.72
+                    </td>
+                    <td align="right">
+                        672.76
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=MZ&state_name=MIZORAM&state_code=22&fin_year=2022-2023&is_statefund=Y&Digest=JLrEWdKr+6hTD4z77pcSUg'>MIZORAM</a>
+                    </td>
+                    <td align="right">
+                        39878.7
+                    </td>
+                    <td align="right">
+                        36662.07
+                    </td>
+                    <td align="right">
+                        6112.06
+                    </td>
+                    <td align="right">
+                        1982.19
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        44756.32
+                    </td>
+                    <td align="right">
+                        -4877.62
+                    </td>
+                    <td align="right">
+                        444.27
+                    </td>
+                    <td align="right">
+                        43.74
+                    </td>
+                    <td align="right">
+                        111.86
+                    </td>
+                    <td align="right">
+                        599.87
+                    </td>
+                    <td align="right">
+                        45356.19
+                    </td>
+                    <td align="right">
+                        -5477.49
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=NL&state_name=NAGALAND&state_code=23&fin_year=2022-2023&is_statefund=Y&Digest=2GenW1SdO3aZwHqxTw54jg'>NAGALAND</a>
+                    </td>
+                    <td align="right">
+                        59318.86
+                    </td>
+                    <td align="right">
+                        46555.1
+                    </td>
+                    <td align="right">
+                        31020.38
+                    </td>
+                    <td align="right">
+                        760.01
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        78335.49
+                    </td>
+                    <td align="right">
+                        -19016.63
+                    </td>
+                    <td align="right">
+                        8326.01
+                    </td>
+                    <td align="right">
+                        12551.25
+                    </td>
+                    <td align="right">
+                        17.03
+                    </td>
+                    <td align="right">
+                        20894.29
+                    </td>
+                    <td align="right">
+                        99229.78
+                    </td>
+                    <td align="right">
+                        -39910.92
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=OR&state_name=ODISHA&state_code=24&fin_year=2022-2023&is_statefund=Y&Digest=KFHjx8m+/tw+8XXqX7sZ5A'>ODISHA</a>
+                    </td>
+                    <td align="right">
+                        461440.92
+                    </td>
+                    <td align="right">
+                        353241.75
+                    </td>
+                    <td align="right">
+                        81619.21
+                    </td>
+                    <td align="right">
+                        9840.7
+                    </td>
+                    <td align="right">
+                        0.18
+                    </td>
+                    <td align="right">
+                        444701.84
+                    </td>
+                    <td align="right">
+                        16739.08
+                    </td>
+                    <td align="right">
+                        3624.28
+                    </td>
+                    <td align="right">
+                        29379.21
+                    </td>
+                    <td align="right">
+                        1233.55
+                    </td>
+                    <td align="right">
+                        34237.04
+                    </td>
+                    <td align="right">
+                        478938.88
+                    </td>
+                    <td align="right">
+                        -17497.96
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=PB&state_name=PUNJAB&state_code=26&fin_year=2022-2023&is_statefund=Y&Digest=HXka+kKbG7ZKjuvPGUjgaQ'>PUNJAB</a>
+                    </td>
+                    <td align="right">
+                        132196.36
+                    </td>
+                    <td align="right">
+                        75932.52
+                    </td>
+                    <td align="right">
+                        30376.04
+                    </td>
+                    <td align="right">
+                        75.98
+                    </td>
+                    <td align="right">
+                        0.62
+                    </td>
+                    <td align="right">
+                        106385.16
+                    </td>
+                    <td align="right">
+                        25811.2
+                    </td>
+                    <td align="right">
+                        701.84
+                    </td>
+                    <td align="right">
+                        4239.04
+                    </td>
+                    <td align="right">
+                        3.29
+                    </td>
+                    <td align="right">
+                        4944.17
+                    </td>
+                    <td align="right">
+                        111329.33
+                    </td>
+                    <td align="right">
+                        20867.03
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        23
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=RJ&state_name=RAJASTHAN&state_code=27&fin_year=2022-2023&is_statefund=Y&Digest=DK+wN+ezMKcqCMeNXI0UhA'>RAJASTHAN</a>
+                    </td>
+                    <td align="right">
+                        830178.93
+                    </td>
+                    <td align="right">
+                        552585.82
+                    </td>
+                    <td align="right">
+                        246793.09
+                    </td>
+                    <td align="right">
+                        11010.83
+                    </td>
+                    <td align="right">
+                        9.74
+                    </td>
+                    <td align="right">
+                        810399.48
+                    </td>
+                    <td align="right">
+                        19779.45
+                    </td>
+                    <td align="right">
+                        3346.87
+                    </td>
+                    <td align="right">
+                        37382.73
+                    </td>
+                    <td align="right">
+                        2266.88
+                    </td>
+                    <td align="right">
+                        42996.48
+                    </td>
+                    <td align="right">
+                        853395.96
+                    </td>
+                    <td align="right">
+                        -23217.03
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        24
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=SK&state_name=SIKKIM&state_code=28&fin_year=2022-2023&is_statefund=Y&Digest=ipLgL8grCMGJKw5fU+TuxA'>SIKKIM</a>
+                    </td>
+                    <td align="right">
+                        8095.27
+                    </td>
+                    <td align="right">
+                        5948.29
+                    </td>
+                    <td align="right">
+                        2259.66
+                    </td>
+                    <td align="right">
+                        723.78
+                    </td>
+                    <td align="right">
+                        0.01
+                    </td>
+                    <td align="right">
+                        8931.74
+                    </td>
+                    <td align="right">
+                        -836.47
+                    </td>
+                    <td align="right">
+                        58.27
+                    </td>
+                    <td align="right">
+                        572.07
+                    </td>
+                    <td align="right">
+                        32.03
+                    </td>
+                    <td align="right">
+                        662.37
+                    </td>
+                    <td align="right">
+                        9594.11
+                    </td>
+                    <td align="right">
+                        -1498.84
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        25
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=TN&state_name=TAMIL+NADU&state_code=29&fin_year=2022-2023&is_statefund=Y&Digest=810jkWTZjuXeBWUGGLQ9gQ'>TAMIL NADU</a>
+                    </td>
+                    <td align="right">
+                        766572.78
+                    </td>
+                    <td align="right">
+                        611899.06
+                    </td>
+                    <td align="right">
+                        258785.23
+                    </td>
+                    <td align="right">
+                        31363.28
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        902047.57
+                    </td>
+                    <td align="right">
+                        -135474.79
+                    </td>
+                    <td align="right">
+                        2393.12
+                    </td>
+                    <td align="right">
+                        65101.54
+                    </td>
+                    <td align="right">
+                        3861.93
+                    </td>
+                    <td align="right">
+                        71356.59
+                    </td>
+                    <td align="right">
+                        973404.16
+                    </td>
+                    <td align="right">
+                        -206831.38
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        26
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=TS&state_name=TELANGANA&state_code=36&fin_year=2022-2023&is_statefund=Y&Digest=EVvD31o14RlnES8X2YVXjg'>TELANGANA</a>
+                    </td>
+                    <td align="right">
+                        307157.42
+                    </td>
+                    <td align="right">
+                        180992.7
+                    </td>
+                    <td align="right">
+                        88023.41
+                    </td>
+                    <td align="right">
+                        18887.86
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        287903.97
+                    </td>
+                    <td align="right">
+                        19253.45
+                    </td>
+                    <td align="right">
+                        1544.91
+                    </td>
+                    <td align="right">
+                        29766.45
+                    </td>
+                    <td align="right">
+                        953.92
+                    </td>
+                    <td align="right">
+                        32265.28
+                    </td>
+                    <td align="right">
+                        320169.25
+                    </td>
+                    <td align="right">
+                        -13011.83
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        27
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=TR&state_name=TRIPURA&state_code=30&fin_year=2022-2023&is_statefund=Y&Digest=oa7DURtq4azCTr1OsoipQA'>TRIPURA</a>
+                    </td>
+                    <td align="right">
+                        96468.74
+                    </td>
+                    <td align="right">
+                        60976.39
+                    </td>
+                    <td align="right">
+                        23916.11
+                    </td>
+                    <td align="right">
+                        4449.07
+                    </td>
+                    <td align="right">
+                        0.08
+                    </td>
+                    <td align="right">
+                        89341.65
+                    </td>
+                    <td align="right">
+                        7127.09
+                    </td>
+                    <td align="right">
+                        453.28
+                    </td>
+                    <td align="right">
+                        932.95
+                    </td>
+                    <td align="right">
+                        186.47
+                    </td>
+                    <td align="right">
+                        1572.7
+                    </td>
+                    <td align="right">
+                        90914.35
+                    </td>
+                    <td align="right">
+                        5554.39
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        28
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=UP&state_name=UTTAR+PRADESH&state_code=31&fin_year=2022-2023&is_statefund=Y&Digest=iDJpooykRm9n8kFoLlsLpQ'>UTTAR PRADESH</a>
+                    </td>
+                    <td align="right">
+                        981761.92
+                    </td>
+                    <td align="right">
+                        594486.71
+                    </td>
+                    <td align="right">
+                        330809.01
+                    </td>
+                    <td align="right">
+                        32645.58
+                    </td>
+                    <td align="right">
+                        0.53
+                    </td>
+                    <td align="right">
+                        957941.83
+                    </td>
+                    <td align="right">
+                        23820.09
+                    </td>
+                    <td align="right">
+                        6336.03
+                    </td>
+                    <td align="right">
+                        148426.99
+                    </td>
+                    <td align="right">
+                        1664.54
+                    </td>
+                    <td align="right">
+                        156427.56
+                    </td>
+                    <td align="right">
+                        1114369.39
+                    </td>
+                    <td align="right">
+                        -132607.47
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        29
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=D&lflag=eng&page=s&short_name=UT&state_name=UTTARAKHAND&state_code=35&fin_year=2022-2023&is_statefund=Y&Digest=DVZb7hLLt3fh+dx+1ioYxw'>UTTARAKHAND</a>
+                    </td>
+                    <td align="right">
+                        77768.93
+                    </td>
+                    <td align="right">
+                        36387.79
+                    </td>
+                    <td align="right">
+                        33849.86
+                    </td>
+                    <td align="right">
+                        3561.52
+                    </td>
+                    <td align="right">
+                        0.02
+                    </td>
+                    <td align="right">
+                        73799.19
+                    </td>
+                    <td align="right">
+                        3969.74
+                    </td>
+                    <td align="right">
+                        170.37
+                    </td>
+                    <td align="right">
+                        6038.9
+                    </td>
+                    <td align="right">
+                        246.73
+                    </td>
+                    <td align="right">
+                        6456
+                    </td>
+                    <td align="right">
+                        80255.19
+                    </td>
+                    <td align="right">
+                        -2486.26
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        30
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=R&lflag=eng&page=s&short_name=WB&state_name=WEST+BENGAL&state_code=32&fin_year=2022-2023&is_statefund=Y&Digest=CT9pV2jQ1nekU3ku+fanjw'>WEST BENGAL</a>
+                    </td>
+                    <td align="right">
+                        13265.58
+                    </td>
+                    <td align="right">
+                        84234.03
+                    </td>
+                    <td align="right">
+                        0.1
+                    </td>
+                    <td align="right">
+                        15313.6
+                    </td>
+                    <td align="right">
+                        4.47
+                    </td>
+                    <td align="right">
+                        99552.2
+                    </td>
+                    <td align="right">
+                        -86286.62
+                    </td>
+                    <td align="right">
+                        352.43
+                    </td>
+                    <td align="right">
+                        65282.2
+                    </td>
+                    <td align="right">
+                        2647.45
+                    </td>
+                    <td align="right">
+                        68282.08
+                    </td>
+                    <td align="right">
+                        167834.28
+                    </td>
+                    <td align="right">
+                        -154568.7
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        31
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=AN&state_name=ANDAMAN+AND+NICOBAR&state_code=01&fin_year=2022-2023&is_statefund=Y&Digest=E0QKJpJT4/0N35av/kZSew'>ANDAMAN AND NICOBAR</a>
+                    </td>
+                    <td align="right">
+                        559.64
+                    </td>
+                    <td align="right">
+                        233.83
+                    </td>
+                    <td align="right">
+                        40.7
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        274.53
+                    </td>
+                    <td align="right">
+                        285.11
+                    </td>
+                    <td align="right">
+                        85.16
+                    </td>
+                    <td align="right">
+                        8.28
+                    </td>
+                    <td align="right">
+                        0.9
+                    </td>
+                    <td align="right">
+                        94.34
+                    </td>
+                    <td align="right">
+                        368.87
+                    </td>
+                    <td align="right">
+                        190.77
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        32
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=DN&state_name=DN+HAVELI+AND+DD&state_code=07&fin_year=2022-2023&is_statefund=Y&Digest=KDLYJl3PtZaiS9d5jm77vw'>DN HAVELI AND DD</a>
+                    </td>
+                    <td align="right">
+                        80.93
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        80.93
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        80.93
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        33
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=LK&state_name=LAKSHADWEEP&state_code=19&fin_year=2022-2023&is_statefund=N&Digest=f2C9wDg4usc2t3myYmeX+w'>LAKSHADWEEP</a>
+                    </td>
+                    <td align="right">
+                        30.15
+                    </td>
+                    <td align="right">
+                        7.22
+                    </td>
+                    <td align="right">
+                        0.33
+                    </td>
+                    <td align="right">
+                        0.36
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        7.91
+                    </td>
+                    <td align="right">
+                        22.24
+                    </td>
+                    <td align="right">
+                        2.46
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2.46
+                    </td>
+                    <td align="right">
+                        10.37
+                    </td>
+                    <td align="right">
+                        19.78
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        34
+                    </td>
+                    <td align="left">
+                        <a href='fundstreportMtemp.aspx?flag_debited=S&lflag=eng&page=s&short_name=PC&state_name=PUDUCHERRY&state_code=25&fin_year=2022-2023&is_statefund=Y&Digest=KsxstAH+00PrScArboU8qA'>PUDUCHERRY</a>
+                    </td>
+                    <td align="right">
+                        2214.42
+                    </td>
+                    <td align="right">
+                        1707.05
+                    </td>
+                    <td align="right">
+                        118.67
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1825.72
+                    </td>
+                    <td align="right">
+                        388.7
+                    </td>
+                    <td align="right">
+                        12.87
+                    </td>
+                    <td align="right">
+                        1.39
+                    </td>
+                    <td align="right">
+                        22.67
+                    </td>
+                    <td align="right">
+                        36.93
+                    </td>
+                    <td align="right">
+                        1862.65
+                    </td>
+                    <td align="right">
+                        351.77
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        8443686.39
+                    </td>
+                    <td align="right">
+                        5499067.96
+                    </td>
+                    <td align="right">
+                        2460183.62
+                    </td>
+                    <td align="right">
+                        302684.91
+                    </td>
+                    <td align="right">
+                        200.7
+                    </td>
+                    <td align="right">
+                        8262137.19
+                    </td>
+                    <td align="right">
+                        181549.2
+                    </td>
+                    <td align="right">
+                        69046.25
+                    </td>
+                    <td align="right">
+                        835325.42
+                    </td>
+                    <td align="right">
+                        38027.98
+                    </td>
+                    <td align="right">
+                        942399.65
+                    </td>
+                    <td align="right">
+                        9204536.84
+                    </td>
+                    <td align="right">
+                        -760850.45
+                    </td>
+                </tr>
+            
+                </table>
+            
