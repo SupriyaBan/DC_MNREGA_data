@@ -22,8 +22,8 @@ class TestPreprocess(unittest.TestCase):
         result_file_path = os.path.join(module_dir_,
                                         'test_data/test_cleaned.csv')
 
-        loader = MNREGADataLoader(xlsx_file, base_url)
-        loader.load()
+        loader = MNREGADataLoader(base_url)
+        loader.download()
         loader.process()
         loader.save(result_file_path)
 
