@@ -59,7 +59,7 @@ observationAbout: E:Mnrega_StateExpenditure->E0
 Node: E:Mnrega_StateExpenditure->E7
 typeOf: dcs:StatVarObservation
 variableMeasured: dcs:SchemeCumAmount_Mnrega_YearExpenditure
-value: C:Mnrega_StateExpenditure->cum_expenditure_year
+value: C:Mnrega_StateExpenditure->cumulative_expenditure_year
 unit: dcs:IndianRupee
 observationDate: C:Mnrega_StateExpenditure->year
 observationPeriod: "P1Y"
@@ -68,7 +68,7 @@ observationAbout: E:Mnrega_StateExpenditure->E0
 Node: E:Mnrega_StateExpenditure->E8
 typeOf: dcs:StatVarObservation
 variableMeasured: dcs:SchemeCumAmount_Mnrega_StateExpenditure
-value: C:Mnrega_StateExpenditure->cum_expenditure_state
+value: C:Mnrega_StateExpenditure->cumulative_expenditure_state
 unit: dcs:IndianRupee
 observationDate: C:Mnrega_StateExpenditure->year
 observationPeriod: "P1Y"
